@@ -1,6 +1,5 @@
 #!/bin/bash
 
-SEC_LIST_ID=ocid1.securitylist.oc1.ca-toronto-1.aaaaaaaa37pqjo4j73hd6xpe4qsqk5c5tjdkqsmp3be5rcg5s7g3tx33g4aa
 
 while [ 0 ]
 do
