@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export OCI_PROFILE=$OCI_PROFILE
+export OCI_CLI_PROFILE=$OCI_CLI_PROFILE
 
 while [ 0 ]
 do
