@@ -41,4 +41,4 @@ docker build -t pubipupinociseclist .
 How to run
 ***********
 
-docker run --dns=8.8.8.8 -e SEC_LIST_ID=<your_oci_secury_list_id> -e OCI_PROFILE=<your_oci_cloud_profile_in_config_file> -v "$HOME/.oci:/oracle/.oci"  -d pubipupinociseclist 
+docker run --name <container_name> --dns=8.8.8.8 -e SEC_LIST_ID=<your_oci_secury_list_id> -e OCI_PROFILE=<your_oci_cloud_profile_in_config_file> -v "$HOME/.oci:/oracle/.oci"  -d pubipupinociseclist 
