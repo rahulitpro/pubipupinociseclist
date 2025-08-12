@@ -11,7 +11,7 @@ You will get below template for your oci environment while creating API key copy
 Copy  API private key file name in $HOME/.oci directory
 
 
-echo "[DEFAULT]
+echo "[OCI_PROFILE_NAME]
 user=ocid1.user.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 fingerprint=xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx
 tenancy=ocid1.tenancy.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
